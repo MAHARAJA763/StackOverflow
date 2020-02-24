@@ -1,0 +1,8 @@
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\obj\Debug\netcoreapp3.1\StackOverflow.Models.csprojAssemblyReference.cache
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\obj\Debug\netcoreapp3.1\StackOverflow.Models.AssemblyInfoInputs.cache
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\obj\Debug\netcoreapp3.1\StackOverflow.Models.AssemblyInfo.cs
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\bin\Debug\netcoreapp3.1\StackOverflow.Models.deps.json
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\bin\Debug\netcoreapp3.1\StackOverflow.Models.dll
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\bin\Debug\netcoreapp3.1\StackOverflow.Models.pdb
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\obj\Debug\netcoreapp3.1\StackOverflow.Models.dll
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Models\obj\Debug\netcoreapp3.1\StackOverflow.Models.pdb

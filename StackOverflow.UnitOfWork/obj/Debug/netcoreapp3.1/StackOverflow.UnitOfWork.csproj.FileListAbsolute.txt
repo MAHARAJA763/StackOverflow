@@ -1,0 +1,13 @@
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\obj\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\obj\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\obj\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.AssemblyInfo.cs
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.deps.json
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.dll
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.pdb
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.dll
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.Models.dll
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.pdb
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\bin\Debug\netcoreapp3.1\StackOverflow.Models.pdb
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\obj\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.csproj.CopyComplete
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\obj\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.dll
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.UnitOfWork\obj\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.pdb

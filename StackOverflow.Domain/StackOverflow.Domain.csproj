@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\StackOverflow.BoundedContext\StackOverflow.BoundedContext.csproj" />
+    <ProjectReference Include="..\StackOverflow.UnitOfWork\StackOverflow.UnitOfWork.csproj" />
+    <ProjectReference Include="..\StackOverflow.Models\StackOverflow.Models.csproj" />
+    <ProjectReference Include="..\StackOverflow.Infrastructure\StackOverflow.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

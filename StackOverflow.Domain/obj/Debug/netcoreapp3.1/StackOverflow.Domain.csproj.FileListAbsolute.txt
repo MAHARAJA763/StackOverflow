@@ -1,0 +1,3 @@
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.csprojAssemblyReference.cache
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.AssemblyInfoInputs.cache
+C:\Users\radix\Desktop\Beginning\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.AssemblyInfo.cs
