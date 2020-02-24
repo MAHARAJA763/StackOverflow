@@ -1,0 +1,15 @@
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\obj\Debug\netcoreapp3.1\StackOverflow.Infrastructure.csprojAssemblyReference.cache
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\obj\Debug\netcoreapp3.1\StackOverflow.Infrastructure.AssemblyInfoInputs.cache
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\obj\Debug\netcoreapp3.1\StackOverflow.Infrastructure.AssemblyInfo.cs
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.Infrastructure.deps.json
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.Infrastructure.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.Infrastructure.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.Models.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.Models.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\obj\Debug\netcoreapp3.1\StackOverflow.Infrastructure.csproj.CopyComplete
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\obj\Debug\netcoreapp3.1\StackOverflow.Infrastructure.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Infrastructure\obj\Debug\netcoreapp3.1\StackOverflow.Infrastructure.pdb

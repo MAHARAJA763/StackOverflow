@@ -1,0 +1,17 @@
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.csprojAssemblyReference.cache
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.AssemblyInfoInputs.cache
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.AssemblyInfo.cs
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Domain.deps.json
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Domain.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Domain.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Infrastructure.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Models.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.UnitOfWork.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Models.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\bin\Debug\netcoreapp3.1\StackOverflow.Infrastructure.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.csproj.CopyComplete
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.Domain\obj\Debug\netcoreapp3.1\StackOverflow.Domain.pdb

@@ -1,0 +1,11 @@
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\obj\Debug\netcoreapp3.1\StackOverflow.BoundedContext.csprojAssemblyReference.cache
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\obj\Debug\netcoreapp3.1\StackOverflow.BoundedContext.AssemblyInfoInputs.cache
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\obj\Debug\netcoreapp3.1\StackOverflow.BoundedContext.AssemblyInfo.cs
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.deps.json
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\bin\Debug\netcoreapp3.1\StackOverflow.BoundedContext.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\bin\Debug\netcoreapp3.1\StackOverflow.Models.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\bin\Debug\netcoreapp3.1\StackOverflow.Models.pdb
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\obj\Debug\netcoreapp3.1\StackOverflow.BoundedContext.csproj.CopyComplete
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\obj\Debug\netcoreapp3.1\StackOverflow.BoundedContext.dll
+D:\Stackoverflow\StackOverflow\StackOverflow\StackOverflow.BoundedContext\obj\Debug\netcoreapp3.1\StackOverflow.BoundedContext.pdb
